@@ -1,0 +1,12 @@
+{
+    "app": "1063",
+    "scope": "ALL",
+    "desktop": {
+        "js": ["dist/CustomerMaster.js"],
+        "css": []
+    },
+    "mobile": {
+        "js": [],
+        "css": []
+    }
+}

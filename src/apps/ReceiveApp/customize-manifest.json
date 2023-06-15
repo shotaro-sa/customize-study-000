@@ -1,0 +1,12 @@
+{
+    "app": "1068",
+    "scope": "ALL",
+    "desktop": {
+        "js": ["dist/ReceiveApp.js"],
+        "css": []
+    },
+    "mobile": {
+        "js": [],
+        "css": []
+    }
+}

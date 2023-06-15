@@ -1,0 +1,12 @@
+{
+    "app": "1062",
+    "scope": "ALL",
+    "desktop": {
+        "js": ["dist/ProductMaster.js"],
+        "css": []
+    },
+    "mobile": {
+        "js": [],
+        "css": []
+    }
+}

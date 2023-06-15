@@ -1,0 +1,12 @@
+{
+    "app": "1067",
+    "scope": "ALL",
+    "desktop": {
+        "js": ["dist/QuotationApp.js"],
+        "css": []
+    },
+    "mobile": {
+        "js": [],
+        "css": []
+    }
+}

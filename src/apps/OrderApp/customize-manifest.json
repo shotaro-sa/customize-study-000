@@ -1,0 +1,12 @@
+{
+    "app": "1064",
+    "scope": "ALL",
+    "desktop": {
+        "js": ["dist/OrderApp.js"],
+        "css": []
+    },
+    "mobile": {
+        "js": [],
+        "css": []
+    }
+}
