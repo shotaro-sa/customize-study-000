@@ -1,4 +1,4 @@
-// 画面表示時の受注番号編集不可
+// 画面表示時
 kintone.events.on(
   ["app.record.create.show", "app.record.edit.show"],
   (event) => {
